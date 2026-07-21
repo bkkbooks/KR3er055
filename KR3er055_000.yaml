@@ -1,13 +1,10 @@
 canonical_identifier: bkk:krp/KR3er055/jc/v1/juan/0
 seq: 0
-front:
+body:
   text: 序余紹興辛巳為葉表弟桷伯材集方六卷前敘陰陽病脈證次及所因之説集注脈經類分八十一門方若干道題曰依源指治伯材在行朝得書欲托貴人刊行未幾下世遂已淳熙甲午復與友人湯致德遠慶德夫論及醫事之要無出三因辨因之初無逾脈息遂舉脈經曰關前一分人命之主左為人迎右為氣口蓋以人迎候外因氣口候內因其不應人迎氣口皆不內外因儻識三因病無餘蘊故曰醫事之要無出此也因編集應用諸方類分一百八十門得方一千五十餘道題曰三因極一病源論粹或曰現行醫方山積便可指示何用此為殊不知晉漢所集不識時宜或詮次混淆或附會雜揉古文簡脫章旨不明俗書無經性理乖誤庸輩妄用無驗有傷不削繁蕪罔知樞要乃辨論前人所不了義庶幾開古賢之蹊徑為進學之帡幪使夫見月忘指可也於是乎書青田鶴溪陳言無擇序
   hash: sha256:759a1d0b34bc09558d156409f0c2f8bfb9cabcc3ab5843a18b93fa8acf4388f6
   markers:
   - {type: 'tls:head', offset: 0, content: '', id: KR3er055_jc_000-d2.h1s1}
-body:
-  text: ''
-  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 metadata:
   title: 三因極一病證方論
   edition:
@@ -15,4 +12,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR3er055.xml
-hash: sha256:3257d3ff389ebb6154f5a19a69dc14f1b235fa5a5352368939b52883e8775219
+hash: sha256:5782216e5ad3a57d65b4b0300be6758c1aa1c6a34ebdd5eb6a457dca309c619c
